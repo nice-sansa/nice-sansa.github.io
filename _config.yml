@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoshan Ying"
   pronouns         : # example: "she/her"  
-  bio              : "Decoding brain information from magnetoencephalography (MEG) signals"
+  bio              : "Master's student exploring speech-brain interfaces and MEG decoding"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "yxs7049@hotmail.com" 
 
