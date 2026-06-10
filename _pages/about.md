@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 I am a Master's student in Speech-Language Pathology with a research interest in cognitive neuroscience and neurotechnology. My work focuses on understanding the neural mechanisms underlying speech and language processing, particularly in children with neurodevelopmental disorders.
+
 My current research combines magnetoencephalography (MEG), neural decoding, and computational approaches to investigate how the brain encodes and processes speech information. I am especially interested in revealing the temporal dynamics of neural activity and translating these findings into practical neurotechnological applications.
+
 In parallel, I am exploring the effects of non-invasive neuromodulation techniques, such as transcranial alternating current stimulation (tACS), on children with neurodevelopmental disorders. My long-term goal is to understand how modulating neural oscillations may improve cognitive and language functions and contribute to the development of personalized therapeutic interventions.
 
 ## Research Interests
